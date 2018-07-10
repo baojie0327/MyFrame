@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="maincolor">#FFDAB9</color>
+    <color name="main_main">#DAA520</color>
+    <color name="main1">#D2691E</color>
+    <color name="main2">#FF7F50</color>
+    <color name="main_color">#190D31</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ffcc0000</color>
+    <!--特价红色-->
+    <color name="special_red">#FB4B4B</color>
+
+    <color name="price_red">#cf3452</color>
+    <color name="sold_out">#959595</color>
+    <color name="not_sold_out">#474747</color>
+    <color name="main_menu_line">#DBDBDB</color>
+    <color name="black">#ff000000</color>
+    <color name="price_black">#0a0a0a</color>
+
+    <color name="main_gray_color">#2D2D2D</color>
+    <color name="main_text_color">#454545</color>
+    <color name="grey_back">#EFEFF4</color>
+    <color name="grey_back_size">#FBFBFB</color>
+    <color name="grey_background">#CDCCCC</color>
+    <!--line的颜色-->
+    <color name="grey_back_line">#E1E1E1</color>
+    <!--分割线-->
+    <color name="item_divide_line">#E5E5E5</color>
+
+    <color name="grey_back_text">#959A9C</color>
+    <color name="grey_back_ground">#E5E5E5</color>
+    <color name="grey_line">#777777</color>
+    <color name="grey_line_bind">#9F9F9F</color>
+    <color name="purple_back">#E68565C7</color>
+    <color name="top_back">#72000000</color>
+    <color name="no_size_text_color">#D8D8D8</color>
+
+    <!--购衣助手-->
+    <!--文字选中-->
+    <color name="assistant_select">#5d32b5</color>
+    <!--文字未选中-->
+    <color name="assistant_unselect">#6b6b6b</color>
+    <color name="assistant_unselect_text">#878787</color>
+    <!--分割线-->
+    <color name="assistant_line">#f0eff7</color>
+    <!--item的颜色-->
+    <!--名字，价格-->
+    <color name="assistant_item_text">#040404</color>
+    <!--品牌-->
+    <color name="assistant_item_brand">#858585</color>
+    <color name="assistant_market_price">#C3C3C3</color>
+    <!--搭配 item line-->
+    <color name="assistant_assort_line">#E7E7E7</color>
+
+
+    <color name="master_color">#4919A6</color>
+    <color name="dialog_color">#006EFF</color>
+    <color name="texts_color">#C8C8CE</color>
+    <!--LoginActivity-->
+    <color name="login_text">#C8C8CE</color>
+    <color name="login_button">#4919A6</color>
+    <color name="login_register">#4191E3</color>
+    <!--Diaglog-->
+    <color name="background_gray_color">#f7f7f7</color>
+    <color name="gray_text_color">#999999</color>
+    <color name="translucence">#e0000000</color>
+    <color name="transparent">#00000000</color>
+    <!--line-->
+    <color name="line_color">#EFEFF4</color>
+    <!--bold_line-->
+    <color name="bold_line_color">#f7f7f7</color>
+    <color name="color_f6">#f6f6f6</color>
+    <!--<color name="classify_title_line">#6225DE</color>-->
+    <color name="classify_title_line">#5d32b5</color>
+    <color name="classify_text_color">#6C6876</color>
+    <!--MyAmountActivity-->
+    <color name="amount_bg">#4918A5</color>
+    <color name="service_bg">#F5F4F9</color>
+    <color name="service_tel_color">#5D6BCE</color>
+
+    <color name="navpage">#FFE1E8EB</color>
+
+    <color name="scrollview_bg">#333333</color>
+
+
+    <color name="black_deep">#FF000000</color>
+
+    <color name="type_title_color">#1b1b1b</color>
+    <color name="type_des_color">#464646</color>
+    <color name="type_name_color">#1b1b1b</color>
+    <color name="type_product_name_color">#0a0a0a</color>
+    <color name="type_product_brand_color">#969696</color>
+    <!--特价红色-->
+    <color name="special_price_color">#FB4B4B</color>
+    <color name="normal_price_color">#0a0a0a</color>
+    <color name="original_price_color">#b1b1b1</color>
+</resources>

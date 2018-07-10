@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ahuang.myframe.activity.feature.NewFeatureActivity">
+    <TextView
+    android:id="@+id/snackbar"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="#FFDAB9"
+    android:layout_marginTop="5dp"
+    android:gravity="center"
+    android:textSize="16sp"
+    android:text="SnackBar"/>
+
+    <TextView
+        android:id="@+id/textInputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#FFDAB9"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:text="textInputLayout"/>
+    <TextView
+        android:id="@+id/tv_tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#FFDAB9"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:text="TabLayout"/>
+    <TextView
+    android:id="@+id/tv_navigationView"
+    android:layout_width="match_parent"
+    android:layout_height="45dp"
+    android:background="#FFDAB9"
+    android:layout_marginTop="10dp"
+    android:gravity="center"
+    android:textSize="16sp"
+    android:text="NavigationView"/>
+
+    <TextView
+        android:id="@+id/tv_coordinatorLayout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#FFDAB9"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:text="CoordinatorLayout"/>
+
+</LinearLayout>

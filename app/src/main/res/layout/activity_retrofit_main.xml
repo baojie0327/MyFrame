@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_retrofit_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ahuang.myframe.activity.retrofit.RetrofitMainActivity">
+
+    <TextView
+        android:id="@+id/tv_basic"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:gravity="center"
+        android:background="#FFA234"
+        android:textSize="16sp"
+        android:text="基本使用(get)"/>
+    <TextView
+        android:id="@+id/tv_basic_post"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:gravity="center"
+        android:background="#FFA234"
+        android:layout_marginTop="5dp"
+        android:textSize="16sp"
+        android:text="基本使用(post)"/>
+</LinearLayout>

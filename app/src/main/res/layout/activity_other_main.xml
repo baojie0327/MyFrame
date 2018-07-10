@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ahuang.myframe.activity.other.OtherMainActivity">
+    <TextView
+        android:id="@+id/crash"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="5dp"
+        android:background="#FFA234"
+        android:gravity="center"
+        android:text="Crash处理"
+        android:textSize="15sp"/>
+    <TextView
+        android:id="@+id/fanxing"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_marginTop="5dp"
+        android:background="#FFA234"
+        android:gravity="center"
+        android:text="泛型测试"
+        android:textSize="15sp"/>
+</LinearLayout>
