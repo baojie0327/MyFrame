@@ -1,10 +1,18 @@
 [
     {
+        "merged": "D:\\myGit\\MyFrame\\cptr\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
+        "source": "D:\\myGit\\MyFrame\\cptr\\res\\drawable-xhdpi\\ptr_rotate_arrow.png"
+    },
+    {
         "merged": "D:\\MyCoding\\MyFrame\\cptr\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\arrow.png",
         "source": "D:\\MyCoding\\MyFrame\\cptr\\res\\drawable-xhdpi\\arrow.png"
     },
     {
         "merged": "D:\\MyCoding\\MyFrame\\cptr\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
         "source": "D:\\MyCoding\\MyFrame\\cptr\\res\\drawable-xhdpi\\ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "D:\\myGit\\MyFrame\\cptr\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\arrow.png",
+        "source": "D:\\myGit\\MyFrame\\cptr\\res\\drawable-xhdpi\\arrow.png"
     }
 ]

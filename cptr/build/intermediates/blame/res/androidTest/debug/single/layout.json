@@ -4,6 +4,14 @@
         "source": "D:\\MyCoding\\MyFrame\\cptr\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_classic_default_header.xml"
     },
     {
+        "merged": "D:\\myGit\\MyFrame\\cptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loadmore_default_footer.xml",
+        "source": "D:\\myGit\\MyFrame\\cptr\\build\\intermediates\\bundles\\debug\\res\\layout\\loadmore_default_footer.xml"
+    },
+    {
+        "merged": "D:\\myGit\\MyFrame\\cptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\cube_ptr_classic_default_header.xml",
+        "source": "D:\\myGit\\MyFrame\\cptr\\build\\intermediates\\bundles\\debug\\res\\layout\\cube_ptr_classic_default_header.xml"
+    },
+    {
         "merged": "D:\\MyCoding\\MyFrame\\cptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loadmore_default_footer.xml",
         "source": "D:\\MyCoding\\MyFrame\\cptr\\build\\intermediates\\bundles\\debug\\res\\layout\\loadmore_default_footer.xml"
     }
